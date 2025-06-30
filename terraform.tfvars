@@ -3,7 +3,7 @@ location            = "Southeast Asia"
 prefix              = "tfproj"
 
 admin_username      = "azureuser"
-public_key_path     = "/home/sterraformadmin/terraform-keys/id_rsa_ansible_final.pub"
+public_key_path     = "/home/terraformadmin/terraform-keys/id_rsa_ansible_final.pub"
 
 vm_size             = "Standard_B1s"
 image_publisher     = "Canonical"
