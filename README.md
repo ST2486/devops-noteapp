@@ -1,2 +1,4 @@
 # devops-noteapp
-Setup infra by Terraform
+Setup infa by terraform 
+
+My Simanus 
