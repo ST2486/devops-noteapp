@@ -2,7 +2,7 @@
 name: Test SSH Connection
 
 on:
-  workflow_dispatch:  # ให้เรียก workflow เองได้จากหน้า GitHub
+  workflow_dispatch:  # ให้เรียก workflow เองได้จากหน้า GitHub OK
 
 jobs:
   ssh-test:

@@ -2,7 +2,7 @@
 name: Install Docker on Remote VM
 
 on:
-  workflow_dispatch:  # เรียกใช้งานได้ด้วยมือ
+  workflow_dispatch:  # เรียกใช้งานได้ด้วยมือ OK
 
 jobs:
   install:

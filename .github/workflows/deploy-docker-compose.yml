@@ -32,7 +32,7 @@ jobs:
 
             echo "📦 เริ่ม deploy version: $VERSION"
 
-            # ✅ เคลียร์ repo เดิมก่อน
+            # ✅ เคลียร์ repo เดิมก่อน OK
             rm -rf ~/docker-deploy
             git clone https://github.com/${{ github.repository }}.git ~/docker-deploy
 

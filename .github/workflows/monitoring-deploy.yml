@@ -1,7 +1,7 @@
 name: Monitoring Docker Deploy
 
 on:
-  workflow_dispatch:  # ✅ manual run ได้จาก GitHub UI
+  workflow_dispatch:  # ✅ manual run ได้จาก GitHub UI OK
 
 jobs:
   deploy-monitoring:
