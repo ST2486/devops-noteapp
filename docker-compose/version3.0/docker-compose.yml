@@ -26,7 +26,7 @@ services:
       timeout: 5s
 
   webapi:
-    image: simanus/webappandapi:v1.7
+    image: simanus/noteapi:4
     container_name: webapi_container
     restart: always
     depends_on:
